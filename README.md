@@ -1,5 +1,6 @@
 # robot-monster
-## Robot Monster is a 'furby'-esque hardware/software project
+## Robot Monster 🦖 is a 'furby'-esque hardware/software project
+
 
 The Robot Monster is rechargeable with a standard phone charger/computer USB port.
 Features:
@@ -36,11 +37,23 @@ The audio processing is done by a Freescale SGTL5000. Analog Inputs
 
 ###### Wiring
 
+The diagram on the following page shows the wiring from the main board, to the audio board along with basic input listed in the key. The number corresponds to the PJRC documentation for the Teensy 3.2. The following number scheme directly corresponds with the code for the PharmMonster.
+
 ![alt text][wiring]
 
 [wiring]: https://i.imgur.com/VG19hHe.png?1 "Wiring diagram"
 
-## OREGON TRAIL GAME
+###### Control Interface
+
+3X Switches in a grid pattern
+located on back along with USB charging cable
+
+| Easter Egg switch    | no switch |
+| Disable Mic reaction | Power     |
+
+## FEATURES
+
+###### Oregon Trail Game
 
 ![alt text][logo]
 
@@ -64,3 +77,16 @@ Float the wagon Bear Trap:
 
 After this choice, your score will be calculated. Each choice you made has different percent chances of success based at random. The higher the risk, the great the point reward.
 Can you become a ‘True Trail champion’?
+
+###### 8 Ball Mode
+
+8 Ball Mode turns the monster into an 8 Ball.
+
+It responds to the tilt sensor if you hold him like Simba from the Lion King
+
+![alt text][lionking]
+
+[lionking]: https://i.imgur.com/C2NS3yv.png?1 "Naaaaaa seveenyyaaaaaaa"
+
+To use 8 ball mode, hold hammy like Simba with his head to the sky and tail to the ground.
+Once it notifies you that 8 ball mode is active, the light will shine. Give him a slight up and down shake to get your answer. (All answers are from the original 8 ball).
