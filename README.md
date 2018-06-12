@@ -48,6 +48,8 @@ The diagram on the following page shows the wiring from the main board, to the a
 3X Switches in a grid pattern
 located on back along with USB charging cable
 
+| Switches             |           |
+| -------------------- |:---------:|
 | Easter Egg switch    | no switch |
 | Disable Mic reaction | Power     |
 
