@@ -12,7 +12,7 @@ Features:
 
 ![alt text][logo]
 
-[logo]: https://i.imgur.com/4lCi1CB.png "Logo Title Text 2"
+[logo]: https://i.imgur.com/4lCi1CB.png?1 "Oregon Trail Sign"
 
 Let the directions finish, listen for the choices, the monster will state each choice again separately and after you hear the choice you wish to choose, make a loud sound.
 3 Decisions:
