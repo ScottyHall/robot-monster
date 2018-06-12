@@ -13,14 +13,14 @@ Features:
 
 [design]: https://i.imgur.com/UUB2Ms0.jpg?1 "Robot monster blueprint"
 
-## HARDWARE
+## HARDWARE 🎛
 
-###### PROCESSING
+###### PROCESSING 💻
 
 The section of the PharmMonster responsible for running the code is a base, modified board from PJRC utilizing a 32-bit ARM processor.
 Unmodified Teensy 3.2 from PJRC
 
-###### AUDIO
+###### AUDIO 🎵
 The audio processing is done by a Freescale SGTL5000. Analog Inputs
 - Stereo LINEIN - Support for external analog input
 - Stereo LINEIN - Codec bypass for low power
@@ -35,14 +35,14 @@ The audio processing is done by a Freescale SGTL5000. Analog Inputs
 - PLL allows input of an 8.0 MHz to 27 MHz system clock - standard audio clocks are derived from PLL Power Supplies
 - Designed to operate from 1.62 to 3.6 volts
 
-###### WAV FILES
+###### WAV FILES 〰️
 
 Export
 Export each clip as an uncompressed WAV at 44.1kHz.
 He will not accept compressed audio files
 The audio codec, in its current form, can only process lossless WAV files at 44.1kHz. Nothing else.
 
-###### WIRING
+###### WIRING ⌁
 
 The diagram on the following page shows the wiring from the main board, to the audio board along with basic input listed in the key. The number corresponds to the PJRC documentation for the Teensy 3.2. The following number scheme directly corresponds with the code for the PharmMonster.
 
@@ -50,7 +50,7 @@ The diagram on the following page shows the wiring from the main board, to the a
 
 [wiring]: https://i.imgur.com/VG19hHe.png?1 "Wiring diagram"
 
-###### Control Interface
+###### Control Interface 🎚
 
 3X Switches in a grid pattern
 located on back along with USB charging cable
@@ -60,9 +60,9 @@ located on back along with USB charging cable
 | Easter Egg switch    | no switch |
 | Disable Mic reaction | Power     |
 
-## FEATURES
+## FEATURES ㊙️
 
-###### OREGON TRAIL GAME
+###### OREGON TRAIL GAME 〽️
 
 ![alt text][logo]
 
@@ -87,7 +87,7 @@ Float the wagon Bear Trap:
 After this choice, your score will be calculated. Each choice you made has different percent chances of success based at random. The higher the risk, the great the point reward.
 Can you become a ‘True Trail champion’?
 
-###### 8 BALL MODE
+###### 8 BALL MODE №8
 
 8 Ball Mode turns the monster into an 8 Ball.
 
