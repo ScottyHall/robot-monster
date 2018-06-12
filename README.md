@@ -10,6 +10,8 @@ Features:
 
 ## OREGON TRAIL GAME
 [logo]: https://i.imgur.com/4lCi1CB.png "Oregon Trail Sign"
+[logo]
+
 Let the directions finish, listen for the choices, the monster will state each choice again separately and after you hear the choice you wish to choose, make a loud sound.
 3 Decisions:
 - Trade choice:
