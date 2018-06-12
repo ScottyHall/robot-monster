@@ -8,6 +8,10 @@ Features:
 	- Left Arm Quick Press = Quotes (Some are mispronounced by the voice synthesizer, but it’s a little comical, so it was not corrected)
 	- Left Arm Hold Press = Oregon Trail game
 
+![alt text][design]
+
+[design]: https://i.imgur.com/UUB2Ms0.jpg?1 "Robot monster blueprint"
+
 ## OREGON TRAIL GAME
 
 ![alt text][logo]
