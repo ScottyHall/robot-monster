@@ -9,8 +9,14 @@ Features:
 	- Left Arm Hold Press = Oregon Trail game
 
 ## OREGON TRAIL GAME
-[logo]: https://i.imgur.com/4lCi1CB.png "Oregon Trail Sign"
-[logo]
+
+Inline-style: 
+![alt text](https://i.imgur.com/4lCi1CB.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://i.imgur.com/4lCi1CB.png "Logo Title Text 2"
 
 Let the directions finish, listen for the choices, the monster will state each choice again separately and after you hear the choice you wish to choose, make a loud sound.
 3 Decisions:
