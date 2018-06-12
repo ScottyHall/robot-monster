@@ -27,7 +27,7 @@ The Robot Monster is rechargeable with a standard phone charger/computer USB por
 ###### PROCESSING 💻
 
 The section of the PharmMonster responsible for running the code is a base, modified board from PJRC utilizing a 32-bit ARM processor.
-Unmodified Teensy 3.2 from PJRC
+Unmodified Teensy 3.2 from PJRC https://www.pjrc.com
 
 ###### AUDIO 🎵
 The audio processing is done by a Freescale SGTL5000. Analog Inputs
