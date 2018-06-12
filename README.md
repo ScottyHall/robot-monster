@@ -12,6 +12,34 @@ Features:
 
 [design]: https://i.imgur.com/UUB2Ms0.jpg?1 "Robot monster blueprint"
 
+## Hardware
+
+###### Processing
+
+The section of the PharmMonster responsible for running the code is a base, modified board from PJRC utilizing a 32-bit ARM processor.
+Unmodified Teensy 3.2 from PJRC
+
+###### Audio
+The audio processing is done by a Freescale SGTL5000. Analog Inputs
+• Stereo LINEIN - Support for external analog input
+• Stereo LINEIN - Codec bypass for low power
+• MIC bias provided
+• Programmable MIC gain
+• ADC - 85 dB SNR (-60 dB input) and -73 dB THD+N (VDDA = 1.8 V) Analog Outputs
+• HP Output - Capless design
+• HP Output - 62.5 mW max, 1.02 kHz sine into 16 W load at 3.3 V • HP Output - 100 dB SNR (-60 dB input) and -80 dB THD+N (VDDA = 1.8 V, 16 W load, DAC to headphone)
+• LINEOUT - 100 dB SNR (-60 dB input) and -85 dB THD+N (VDDIO = 3.3 V) Digital I/O
+• I2S port to allow routing to Application Processor Integrated Digital Processing
+• Freescale surround, Freescale bass, tone control/ parametric equalizer/graphic equalizer clocking/control
+• PLL allows input of an 8.0 MHz to 27 MHz system clock - standard audio clocks are derived from PLL Power Supplies
+• Designed to operate from 1.62 to 3.6 volts
+
+###### Wiring
+
+![alt text][wiring]
+
+[wiring]: https://i.imgur.com/VG19hHe.png?1 "Wiring diagram"
+
 ## OREGON TRAIL GAME
 
 ![alt text][logo]
