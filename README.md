@@ -16,7 +16,7 @@ The Robot Monster is rechargeable with a standard phone charger/computer USB por
 - Speaker
 - Photo-resistor
 - Microphone with breakout board
-- Multicolor LED
+- Multicolor LED 
 
 ![alt text][design]
 
