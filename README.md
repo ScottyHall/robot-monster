@@ -69,7 +69,7 @@ located on back along with USB charging cable
 | Easter Egg switch    | no switch |
 | Disable Mic reaction | Power     |
 
-## FEATURES ㊙️
+## FEATURES
 
 ###### OREGON TRAIL GAME 🂡
 
