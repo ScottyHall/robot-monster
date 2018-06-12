@@ -3,11 +3,20 @@
 
 
 The Robot Monster is rechargeable with a standard phone charger/computer USB port.
-Features:
-	- 2X BUTTONS:
+###### Controls:
+- 2X Buttons (one in each fin):
 	- Right Arm = Jokes
 	- Left Arm Quick Press = Quotes (Some are mispronounced by the voice synthesizer, but it’s a little comical, so it was not corrected)
 	- Left Arm Hold Press = Oregon Trail game
+
+###### Components:
+- Tilt sensor
+- 2x Cherry MX Blue keyboard switches
+- 3x JST Switches
+- Speaker
+- Photo-resistor
+- Microphone with breakout board
+- Multicolor LED
 
 ![alt text][design]
 
@@ -62,7 +71,7 @@ located on back along with USB charging cable
 
 ## FEATURES ㊙️
 
-###### OREGON TRAIL GAME 〽️
+###### OREGON TRAIL GAME 🂡
 
 ![alt text][logo]
 
