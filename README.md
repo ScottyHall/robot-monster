@@ -1,6 +1,10 @@
 # 🦄 robot-monster
 ## Robot Monster 🦖 is a 'furby'-esque hardware/software project
 
+![alt text][headerpic]
+
+[headerpic]: https://i.imgur.com/hAnCs4R.png?1 "RobotMonster Header"
+
 
 The Robot Monster is rechargeable with a standard phone charger/computer USB port.
 ###### Controls:
