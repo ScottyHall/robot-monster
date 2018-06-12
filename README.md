@@ -1,4 +1,4 @@
-# robot-monster
+# 🦄 robot-monster
 ## Robot Monster 🦖 is a 'furby'-esque hardware/software project
 
 
@@ -13,14 +13,14 @@ Features:
 
 [design]: https://i.imgur.com/UUB2Ms0.jpg?1 "Robot monster blueprint"
 
-## Hardware
+## HARDWARE
 
-###### Processing
+###### PROCESSING
 
 The section of the PharmMonster responsible for running the code is a base, modified board from PJRC utilizing a 32-bit ARM processor.
 Unmodified Teensy 3.2 from PJRC
 
-###### Audio
+###### AUDIO
 The audio processing is done by a Freescale SGTL5000. Analog Inputs
 - Stereo LINEIN - Support for external analog input
 - Stereo LINEIN - Codec bypass for low power
@@ -35,7 +35,14 @@ The audio processing is done by a Freescale SGTL5000. Analog Inputs
 - PLL allows input of an 8.0 MHz to 27 MHz system clock - standard audio clocks are derived from PLL Power Supplies
 - Designed to operate from 1.62 to 3.6 volts
 
-###### Wiring
+###### WAV FILES
+
+Export
+Export each clip as an uncompressed WAV at 44.1kHz.
+He will not accept compressed audio files
+The audio codec, in its current form, can only process lossless WAV files at 44.1kHz. Nothing else.
+
+###### WIRING
 
 The diagram on the following page shows the wiring from the main board, to the audio board along with basic input listed in the key. The number corresponds to the PJRC documentation for the Teensy 3.2. The following number scheme directly corresponds with the code for the PharmMonster.
 
@@ -55,7 +62,7 @@ located on back along with USB charging cable
 
 ## FEATURES
 
-###### Oregon Trail Game
+###### OREGON TRAIL GAME
 
 ![alt text][logo]
 
@@ -80,7 +87,7 @@ Float the wagon Bear Trap:
 After this choice, your score will be calculated. Each choice you made has different percent chances of success based at random. The higher the risk, the great the point reward.
 Can you become a ‘True Trail champion’?
 
-###### 8 Ball Mode
+###### 8 BALL MODE
 
 8 Ball Mode turns the monster into an 8 Ball.
 
