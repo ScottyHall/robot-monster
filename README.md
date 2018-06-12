@@ -10,10 +10,6 @@ Features:
 
 ## OREGON TRAIL GAME
 
-Inline-style: 
-![alt text](https://i.imgur.com/4lCi1CB.png "Logo Title Text 1")
-
-Reference-style: 
 ![alt text][logo]
 
 [logo]: https://i.imgur.com/4lCi1CB.png "Logo Title Text 2"
